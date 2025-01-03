@@ -6,19 +6,19 @@ Herramienta de Acceso Remoto (RAT), controla dispositivos moviles(Android), en r
 
 
 
-####################### Opciones ########################
-# After Install -> Después de la instalación [OK]
+# 		Opciones ########################
+## After Install -> Después de la instalación [OK]
 	(PERSONALIZADO) una vez instalada la aplicación, puede funcionar como una aplicación real utilizando 
  	el enlace del sitio web proporcionado, o puede usar plantillas preagregadas.(OCULTO) la aplicación se 
   	ocultará de la lista de aplicaciones, bueno con la opción de vinculación
 	consejo: use el mismo nombre e ícono de la primera página (información).
 
-# App Size -> Tamaño de la aplicación
+## App Size -> Tamaño de la aplicación
 	Déle más tamaño a la aplicación, hágala más realista y creíble, más tamaño no afectará en absoluto el
  	rendimiento de la aplicación, también ayudará a evitar la protección, ya que algunos antivirus consideran 
   	aplicaciones de tamaño pequeño como aplicaciones sospechosas
 	consejo: no use esta opción (manténgala 1) si usa la opción de vinculación en la página siguiente.
-# Keep Alive -> Mantener viva [OK]
+## Keep Alive -> Mantener viva [OK]
 	La aplicación usa notificaciones fijas para mantener la aplicación ejecutándose en segundo plano; si esta 
  	opción está deshabilitada, es posible que la aplicación no siga funcionando en segundo plano.
 

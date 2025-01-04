@@ -81,7 +81,7 @@ Herramienta de Acceso Remoto (RAT), controla dispositivos moviles(Android), en r
     	 Este el retraso entre cada solicitud es ms 25 por defecto.
 
 ## Bind Apk -> Enlazar Apk
-	Esta opción tomará otra apk y la fusionará con craxs apk y cuando se instale craxs apk, aparecerá una nueva ventana 
+	Esta opción tomará otra apk y la fusionará con gohsetrat apk y cuando se instale gohsetrat apk, aparecerá una nueva ventana 
  	para instalar la aplicación fusionada si la aplicación fusionada se elimina, la aplicación Gohsetrat permanece.
   
 ## Skip reinstall -> Saltar reinstalación
@@ -91,7 +91,7 @@ Herramienta de Acceso Remoto (RAT), controla dispositivos moviles(Android), en r
 #		 MONITOR #########################
 
 ## Capture login information -> Capturar información de inicio de sesión
-	Carxs rat lo ayuda a detectar y guardar cualquier información de inicio de sesión, basándose en la lista que agrega arriba,
+	GohsetRat7 lo ayuda a detectar y guardar cualquier información de inicio de sesión, basándose en la lista que agrega arriba,
  	esta herramienta no utiliza sitios web o ventanas falsos para capturar contraseñas, sino que utiliza el enlace del sitio
   	web original (el que proporcionó en el cuadro 2).
    
